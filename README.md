@@ -14,19 +14,9 @@
 
 ---
 
-# 🖼️ CUSTOM BANNER HERE
-
-**Banner Text Suggestion**
-
-PANKAJ TIRDIYA
-
-Java Backend Developer
-
-Spring Boot • REST APIs • Security • System Design • DSA
-
-Building Production-Oriented Backend Systems
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/p-a-n-k-a-j/p-a-n-k-a-j/main/banner.png" width="100%">
+</p>
 
 ## 👨‍💻 About Me
 
