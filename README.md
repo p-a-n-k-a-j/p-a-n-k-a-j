@@ -4,7 +4,7 @@
 
 ### Java Backend Developer | Spring Boot | REST APIs | Security | DSA
 
-📍 Jaipur, Rajasthan, India
+📍 Sikar, Rajasthan, India
 
 📧 [pankajtirdiya2001@gmail.com](mailto:pankajtirdiya2001@gmail.com)
 
